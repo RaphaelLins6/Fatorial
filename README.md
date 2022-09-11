@@ -1,2 +1,2 @@
 # Fatorial
-Fatorialde 
+Fatorial de um número

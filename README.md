@@ -4,13 +4,14 @@
 
 ☠️ Code to find the factorial of a number.
 
-## Aprendizados
+## Aprendizados | Learnings
 
 ☠️ Aprendi a mexer com os operadores aritméticos
 e o for em C.
 
 ☠️ I learned to work with arithmetic operators
 and the for in C.
-## Stack utilizada
+
+## Stack utilizada | Stack used
 
 **Back-end:** Dev C++ | C
